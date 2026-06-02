@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2B7A78&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi%2C+I'm+Neha+Sinha+%F0%9F%91%8B;Business+%26+Data+Analyst)](https://git.io/typing-svg)
 
-🔍 Open to **Business Analyst** and **Data Analyst** roles · 📍 Open to Opportunities Across the US
 
 </div>
 
