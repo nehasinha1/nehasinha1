@@ -66,18 +66,6 @@ Supported requirements gathering, stakeholder communication, and test planning f
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Repos-3-2B7A78?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Business_%26_Data_Analysis-2B7A78?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-SQL_%7C_R_%7C_Tableau-2B7A78?style=for-the-badge)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
