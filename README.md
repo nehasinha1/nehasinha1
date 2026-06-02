@@ -42,5 +42,5 @@ Business Analysis · Requirements Gathering · Data Visualization · QA Testing 
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Sinha-0077B5?style=flat&logo=linkedin)](https://[linkedin.com/in/nehasinha27788])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Sinha-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/nehasinha27788/)
 [![GitHub](https://img.shields.io/badge/GitHub-nehasinha1-181717?style=flat&logo=github)](https://github.com/nehasinha1)
