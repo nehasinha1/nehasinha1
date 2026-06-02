@@ -70,9 +70,9 @@ Supported requirements gathering, stakeholder communication, and test planning f
 
 <div align="center">
 
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehasinha1&show_icons=true&theme=calm&hide_border=true&title_color=2B7A78&icon_color=2B7A78&text_color=444444&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehasinha1&layout=compact&theme=calm&hide_border=true&title_color=2B7A78&text_color=444444&bg_color=ffffff)
+![Repos](https://img.shields.io/badge/Repos-3-2B7A78?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Business_%26_Data_Analysis-2B7A78?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-SQL_%7C_R_%7C_Tableau-2B7A78?style=for-the-badge)
 
 </div>
 
