@@ -5,7 +5,7 @@
 **Translating complex enterprise problems into clear, data-driven decisions**
 **across AI, workforce, and infrastructure trends.**
 
-🔍 Open to **Business Analyst** and **Data Analyst** roles · 📍 Orange County / Irvine, CA
+🔍 Open to **Business Analyst** and **Data Analyst** roles · 📍 Open to Opportunities Across the US
 
 </div>
 
@@ -83,6 +83,5 @@ Supported requirements gathering, stakeholder communication, and test planning f
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha_Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehasinha27788/)
-[![GitHub](https://img.shields.io/badge/GitHub-nehasinha1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehasinha1)
 
 </div>
