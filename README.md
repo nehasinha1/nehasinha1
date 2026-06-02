@@ -1,12 +1,12 @@
-# Hi, I'm Neha Sinha 👋
+# Hi, I'm Neha Sinha
 
 **Business & Data Analyst | Translating complex enterprise problems into clear, data-driven decisions across AI, workforce, and infrastructure trends.**
 
-🔍 **Currently open to** Business Analyst and Data Analyst roles in the **Orange County / Irvine area**
+🔍 **Currently open to** Business Analyst and Data Analyst roles across **US**
 
 ---
 
-## 👩‍💼 About Me
+## About Me
 
 I'm a Business and Data Analyst with experience across automotive, telecom, and fintech industries. I turn messy, multi-source data into clear insights that help teams make faster, better decisions. My work spans requirements gathering, dashboard development, process documentation, and QA — bridging the gap between technical teams and business stakeholders.
 
@@ -36,7 +36,7 @@ I'm a Business and Data Analyst with experience across automotive, telecom, and 
 
 ---
 
-## 🏢 Professional Highlights
+## Professional Highlights
 
 **Kia America** — Business Analyst
 Built Tableau dashboards for Kia University training metrics and KDealerPlus dealer operations; managed ServiceNow ticketing workflows and SharePoint documentation for regional leadership teams.
