@@ -9,7 +9,9 @@
 
 ## 👩‍💼 About Me
 
-Business Analyst with 7+ years of enterprise experience.
+📍 Orange County, CA
+
+Business & Data Analyst with 7+ years of enterprise experience.
 
 I work across:
 
