@@ -86,7 +86,7 @@ to deliver clear, data-driven decisions that reduce risk and support strategic o
 |:---|:---|:---|
 | [**layoffs-vs-ai-hiring**](https://github.com/nehasinha1/layoffs-vs-ai-hiring) | Are companies trading jobs for AI investment? | R · SQL · Tableau |
 | [**ai-productivity-paradox**](https://github.com/nehasinha1/ai-productivity-paradox) | Why aren't AI adopters seeing measurable output gains? | Tableau · Excel · Lucidchart |
-| [**ai-hidden-cost-power-grid**](https://github.com/nehasinha1/ai-hidden-cost-power-grid) | The real environmental price of AI infrastructure | SQL · Tableau · MS Visio |
+| [**AI ROI Reality Check**](https://github.com/nehasinha1/ai-hidden-cost-power-grid) | Are companies actually getting returns on their AI investments? | Excel · MS Visio · SharePoint · ServiceNow |
 
 </div>
 
