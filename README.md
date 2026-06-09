@@ -84,7 +84,7 @@ to deliver clear, data-driven decisions that reduce risk and support strategic o
 
 | 🔗 Project | 💡 What it answers | 🛠️ Tools |
 |:---|:---|:---|
-| [**layoffs-vs-ai-hiring**](https://github.com/nehasinha1/layoffs-vs-ai-hiring) | Are companies trading jobs for AI investment? | R · SQL · Tableau |
+| [**Layoffs vs AI Hiring**](https://github.com/nehasinha1/layoffs-vs-ai-hiring) | Are companies trading jobs for AI investment? | R · SQL · Tableau |
 | [**The AI Productivity Paradox**](https://github.com/nehasinha1/ai-productivity-paradox) | Why aren't AI adopters seeing measurable output gains? | Tableau · Excel · Lucidchart |
 | [**AI ROI Reality Check**](https://github.com/nehasinha1/ai-roi-reality-check) | Are companies actually getting returns on their AI investments? | Excel · MS Visio · SharePoint · ServiceNow |
 
