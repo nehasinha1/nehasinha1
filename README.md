@@ -20,7 +20,7 @@ I work across:
 - ⚙️ Process Optimization & Automation
 - 🤝 Stakeholder Management & Consulting
 
-to deliver clear, data-driven decisions that reduce risk and support strategic outcomes — across industries including automotive, media, fintech, and IT.
+to deliver clear, data-driven decisions that reduce risk and support strategic outcomes across industries including automotive, media, fintech, and IT.
 
 ---
 
@@ -96,16 +96,16 @@ to deliver clear, data-driven decisions that reduce risk and support strategic o
 
 ## 🏢 Professional Highlights
 
-🚗 **Kia America** — Business Analyst
+🚗 **Kia America** - Business Analyst
 Built Tableau dashboards for Kia University training metrics and KDealerPlus dealer operations; managed ServiceNow ticketing workflows and SharePoint documentation for regional leadership teams.
 
-📡 **Comcast** — QA Analyst
+📡 **Comcast** - QA Analyst
 Led end-to-end functional testing for TVEGo and IPVOD platforms across device types and network conditions; documented defect patterns and coordinated release readiness with engineering teams.
 
-💼 **Cognizant** — Business / QA Analyst
+💼 **Cognizant** - Business / QA Analyst
 Delivered business requirements, UAT coordination, and process documentation for enterprise software implementations.
 
-💳 **Citcon** — Business Analyst
+💳 **Citcon** - Business Analyst
 Supported requirements gathering, stakeholder communication, and test planning for payment platform integrations.
 
 ---
