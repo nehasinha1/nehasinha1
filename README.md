@@ -9,7 +9,7 @@
 
 ## 👩‍💼 About Me
 
-Business Analyst turned Data Analyst with 7+ years of enterprise experience.
+Business Analyst with 7+ years of enterprise experience.
 
 I work across:
 
